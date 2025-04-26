@@ -29,9 +29,9 @@ This project combines the power of Python, OpenCV, and face_recognition librarie
 - NumPy
 
 - Pandas
+
+
 ## 📂 Project Structure
-
-
 
 ```http
   Face_Recognition_Attendance_System/
@@ -46,6 +46,4 @@ This project combines the power of Python, OpenCV, and face_recognition librarie
 ```
 
 
- ## demo
- https://drive.google.com/file/d/1icCb0JdRLzu199WIUy1DHR9ZSfXuXacb/view?usp=sharing
- in this picture showing the roll no. of one of the student of IIIT UNA
+
